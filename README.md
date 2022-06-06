@@ -15,7 +15,7 @@ The JavaScript capstone project is about building our own web application based 
 
 ## Live Demo
 
-[PokeDesk](https://antoniohincapie.github.io/js-capstone/)<br>
+[PokeDesk](https://franclobo.github.io/JavaScript-Group-Project/dist)<br>
 
 ## Video Description
 
